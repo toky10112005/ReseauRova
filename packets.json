@@ -1,426 +1,111 @@
 [
   {
-    "timestamp": 1769014977.2844217,
+    "timestamp": 1769016177.8274393,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014977.2818635,
+    "timestamp": 1769016177.8153431,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016177.806987,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014977.279165,
+    "timestamp": 1769016177.799021,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014977.276151,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014977.2727864,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014977.2690234,
+    "timestamp": 1769016177.787935,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014977.2642028,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014977.256868,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014977.24667,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014977.2378104,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2714188,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014976.2683454,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014976.2663758,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2643378,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2618725,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014976.2589512,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014976.2555127,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2498262,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2433403,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2318091,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014976.2051773,
+    "timestamp": 1769016177.688218,
     "eth": {
       "src_mac": "90:f1:aa:bc:1b:34",
       "dst_mac": "ff:ff:ff:ff:ff:ff",
@@ -435,217 +120,714 @@
     }
   },
   {
-    "timestamp": 1769014975.2660377,
+    "timestamp": 1769016177.5878787,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "90:f1:aa:bc:1b:34",
+      "dst_mac": "ff:ff:ff:ff:ff:ff",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.12",
+      "dst_ip": "192.168.88.255",
+      "protocol": 17,
+      "ttl": 64
+    },
+    "scope": "LAN",
+    "udp": {
+      "src_port": 49451,
+      "dst_port": 15600,
+      "service": "15600"
+    }
+  },
+  {
+    "timestamp": 1769016177.4807513,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016177.471674,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016177.4608955,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014975.2643611,
+    "timestamp": 1769016177.4526987,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016177.4429073,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014975.2626548,
+    "timestamp": 1769016177.433644,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014975.2603755,
+    "timestamp": 1769016177.4248354,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014975.2565286,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014975.2530692,
+    "timestamp": 1769016177.4135027,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016176.4987814,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014975.2501128,
+    "timestamp": 1769016176.4717872,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016176.4566276,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016176.1625538,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014975.2455986,
+    "timestamp": 1769016176.1530385,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016176.1492836,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014975.2403088,
+    "timestamp": 1769016175.6459312,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "90:f1:aa:bc:1b:34",
+      "dst_mac": "ff:ff:ff:ff:ff:ff",
+      "eth_type": 2054
+    },
+    "arp": {
+      "opcode": 1,
+      "src_mac": "90:f1:aa:bc:1b:34",
+      "src_ip": "192.168.88.12",
+      "target_mac": "00:00:00:00:00:00",
+      "target_ip": "192.168.88.1"
+    }
+  },
+  {
+    "timestamp": 1769016175.5428376,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.5408626,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.5371192,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.5347884,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.3812296,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "102.132.104.13",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 34138,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.3753011,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "102.132.104.13",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 56
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 34138,
+      "service": "34138",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014975.2310925,
+    "timestamp": 1769016175.3639734,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014974.769654,
+    "timestamp": 1769016175.3225894,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016175.3209221,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.2638268,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016175.2608056,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.2322748,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016175.2297335,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.226247,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016175.2241483,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.2217698,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016175.1093655,
+    "eth": {
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "102.132.104.13",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 56
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 34138,
+      "service": "34138",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016175.051306,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "102.132.104.13",
+      "protocol": 6,
+      "ttl": 64
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 34138,
+      "dst_port": 443,
+      "service": "HTTPS",
+      "flags": "ACK,PSH"
+    }
+  },
+  {
+    "timestamp": 1769016174.6177866,
     "eth": {
       "src_mac": "90:f1:aa:bc:1b:34",
       "dst_mac": "01:00:5e:7f:ff:fa",
@@ -659,223 +841,55 @@
     },
     "scope": "INTERNET",
     "udp": {
-      "src_port": 50668,
+      "src_port": 53472,
       "dst_port": 15600,
       "service": "15600"
     }
   },
   {
-    "timestamp": 1769014974.275631,
+    "timestamp": 1769016173.7910962,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014974.2724965,
+    "timestamp": 1769016173.779762,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014974.268576,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014974.2661388,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014974.2629094,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014974.258621,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014974.2536664,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014974.2456264,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014974.2387075,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014974.2305777,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014974.1602492,
+    "timestamp": 1769016173.6910808,
     "eth": {
       "src_mac": "90:f1:aa:bc:1b:34",
       "dst_mac": "ff:ff:ff:ff:ff:ff",
@@ -890,149 +904,128 @@
     }
   },
   {
-    "timestamp": 1769014973.22936,
+    "timestamp": 1769016173.682531,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014973.2274795,
+    "timestamp": 1769016173.6791723,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
       "protocol": 6,
-      "ttl": 64
+      "ttl": 108
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014973.225087,
+    "timestamp": 1769016173.6762145,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "f4:1e:57:0e:74:03",
+      "dst_mac": "0c:96:e6:bc:14:63",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "52.168.112.66",
+      "dst_ip": "192.168.88.186",
+      "protocol": 6,
+      "ttl": 108
+    },
+    "scope": "INTERNET",
+    "tcp": {
+      "src_port": 443,
+      "dst_port": 60528,
+      "service": "60528",
+      "flags": "ACK"
+    }
+  },
+  {
+    "timestamp": 1769016173.673448,
+    "eth": {
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
+      "eth_type": 2048
+    },
+    "ip": {
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK,PSH"
     }
   },
   {
-    "timestamp": 1769014973.222493,
+    "timestamp": 1769016173.670543,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
-      "flags": "ACK,PSH"
-    }
-  },
-  {
-    "timestamp": 1769014973.2199128,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK"
     }
   },
   {
-    "timestamp": 1769014973.217096,
+    "timestamp": 1769016173.6684856,
     "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
+      "src_mac": "0c:96:e6:bc:14:63",
+      "dst_mac": "f4:1e:57:0e:74:03",
       "eth_type": 2048
     },
     "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
+      "src_ip": "192.168.88.186",
+      "dst_ip": "52.168.112.66",
       "protocol": 6,
       "ttl": 64
     },
     "scope": "INTERNET",
     "tcp": {
-      "src_port": 42208,
-      "dst_port": 80,
-      "service": "HTTP",
-      "flags": "ACK"
-    }
-  },
-  {
-    "timestamp": 1769014973.2140663,
-    "eth": {
-      "src_mac": "00:00:00:00:00:00",
-      "dst_mac": "00:00:00:00:00:00",
-      "eth_type": 2048
-    },
-    "ip": {
-      "src_ip": "127.0.0.1",
-      "dst_ip": "127.0.0.1",
-      "protocol": 6,
-      "ttl": 64
-    },
-    "scope": "INTERNET",
-    "tcp": {
-      "src_port": 80,
-      "dst_port": 42208,
-      "service": "42208",
+      "src_port": 60528,
+      "dst_port": 443,
+      "service": "HTTPS",
       "flags": "ACK,PSH"
     }
   }

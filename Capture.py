@@ -196,6 +196,10 @@ def capture_loop():
                 if not ip:
                     continue
 
+                # ✅ Filtrer le trafic localhost
+                if ip['src_ip'] == '127.0.0.1' and ip['dst_ip'] == '127.0.0.1':
+                    continue
+
                 packet['ip'] = {
                     'src_ip': ip['src_ip'],
                     'dst_ip': ip['dst_ip'],
