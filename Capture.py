@@ -23,7 +23,7 @@ def port_to_service(port, proto):
         68: 'DHCP',
         123: 'NTP',
         1900: 'SSDP',
-        5353: 'mDNS'
+        5353: 'mDNS/hono'
     }
     return services.get(port, str(port))
 
